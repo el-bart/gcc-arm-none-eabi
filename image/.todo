@@ -3,4 +3,7 @@
     <note priority="medium" time="1487963790">
         add stlink to the image as well
     </note>
+    <note priority="low" time="1487963855">
+        add convenience profile settings (based on my-settings repo)
+    </note>
 </todo>
